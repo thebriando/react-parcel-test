@@ -8,11 +8,12 @@
   },
   "devDependencies": {
     "@babel/core": "^7.15.8",
-    "parcel": "^2.0.0-nightly.888",
+    "parcel": "^2.0.0",
     "postcss": "^8.3.9"
   },
   "dependencies": {
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "parcel-namer-image": "link:./parcel-namer-image"
   }
 }

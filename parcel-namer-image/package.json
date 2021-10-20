@@ -1,0 +1,8 @@
+{
+  "name": "parcel-namer-image",
+  "version": "0.0.1",
+  "main": "src/ImageNamer.js",
+  "engines": {
+    "parcel": "^2.0.0"
+  }
+}
